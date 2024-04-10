@@ -1,0 +1,1 @@
+ C:\\src\\planery_exclusive_demo\\.dart_tool\\flutter_build\\0fb8c314013d8da9c9f00bcabf1f0e3f\\native_assets.yaml: 
